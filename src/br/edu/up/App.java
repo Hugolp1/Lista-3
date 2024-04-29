@@ -8,6 +8,7 @@ import br.edu.up.modelos.Ex05;
 import br.edu.up.modelos.Ex06;
 import br.edu.up.modelos.Ex07;
 import br.edu.up.modelos.Ex08;
+import br.edu.up.modelos.Ex09;
 
 public class App {
     public static void main(String[] args){
@@ -18,6 +19,7 @@ public class App {
         // Ex05.executar();
         // Ex06.executar();
         // Ex07.executar();
-        Ex08.executar();
+        // Ex08.executar();
+        Ex09.executar();
     }
 }
