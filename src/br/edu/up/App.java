@@ -25,6 +25,7 @@ import br.edu.up.modelos.Ex22;
 import br.edu.up.modelos.Ex23;
 import br.edu.up.modelos.Ex24;
 import br.edu.up.modelos.Ex25;
+import br.edu.up.modelos.Ex26;
 
 public class App {
     public static void main(String[] args){
@@ -52,7 +53,8 @@ public class App {
         // Ex22.executar();
         // Ex23.executar();
         // Ex24.executar();
-        Ex25.executar();
+        // Ex25.executar();
+        Ex26.executar();
         
         
         
