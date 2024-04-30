@@ -1,6 +1,7 @@
 package br.edu.up;
 
 import br.edu.up.modelos.Ex17;
+import br.edu.up.modelos.Ex18;
 
 public class App {
     public static void main(String[] args){
@@ -20,7 +21,8 @@ public class App {
         //Ex14.executar();
         //Ex15.executar();
         //Ex16.executar();
-        Ex17.executar();
+        //Ex17.executar();
+        Ex18.executar();
         
         
         
