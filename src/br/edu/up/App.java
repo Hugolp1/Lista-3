@@ -1,15 +1,6 @@
 package br.edu.up;
 
-import br.edu.up.modelos.Ex01;
-import br.edu.up.modelos.Ex02;
-import br.edu.up.modelos.Ex03;
-import br.edu.up.modelos.Ex04;
-import br.edu.up.modelos.Ex05;
-import br.edu.up.modelos.Ex06;
-import br.edu.up.modelos.Ex07;
-import br.edu.up.modelos.Ex08;
-import br.edu.up.modelos.Ex09;
-import br.edu.up.modelos.Ex10;
+import br.edu.up.modelos.Ex11;
 
 public class App {
     public static void main(String[] args){
@@ -22,6 +13,7 @@ public class App {
         // Ex07.executar();
         // Ex08.executar();
         // Ex09.executar();
-        Ex10.executar();
+        //Ex10.executar();
+        Ex11.executar();
     }
 }
